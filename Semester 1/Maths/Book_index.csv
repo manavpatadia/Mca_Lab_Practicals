@@ -1,0 +1,27 @@
+Chapter_name,Chapter_number,Exercise,B_Page_start,B_Page_end,O_Page_start,O_Page_end,E_Page_start,E_Page_end
+The Foundations: Logic and Proofs,1,1.1,33,37,10,17,1,6
+The Foundations: Logic and Proofs,1,1.2,43,45,17,20,6,9
+The Foundations: Logic and Proofs,1,1.3,55,57,20,26,9,14
+The Foundations: Logic and Proofs,1,1.4,74,78,26,32,14,20
+The Foundations: Logic and Proofs,1,1.5,85,89,32,41,20,25
+The Foundations: Logic and Proofs,1,1.6,99,101,41,45,25,28
+The Foundations: Logic and Proofs,1,1.7,112,113,45,49,28,30
+The Foundations: Logic and Proofs,1,1.8,129,130,49,53,31,34
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.1,146,147,59,62,38,40
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.2,157,159,62,68,41,45
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.3,173,176,68,77,45,53
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.4,188,191,77,84,53,58
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.5,197,198,85,88,58,61
+"Basic Structures: Sets, Functions, Sequences, Sums and Matrices",2,2.6,204,207,88,91,61,63
+Counting,6,6.1,417,420,206,215,152,157
+Counting,6,6.2,426,428,215,220,158,160
+Counting,6,6.3,434,436,220,224,161,164
+Counting,6,6.4,442,444,225,229,164,167
+Counting,6,6.5,453,455,229,236,167,172
+Counting,6,6.6,459,460,236,239,172,173
+Relations,9,9.1,602,604,321,329,231,236
+Relations,9,9.2,610,611,329,331,236,238
+Relations,9,9.3,617,618,331,334,238,241
+Relations,9,9.4,627,628,334,338,241,244
+Relations,9,9.5,636,639,338,346,244,249
+Relations,9,9.6,651,653,346,354,249,254

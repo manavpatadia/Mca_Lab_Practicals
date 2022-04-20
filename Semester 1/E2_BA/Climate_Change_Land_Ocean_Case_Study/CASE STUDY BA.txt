@@ -1,0 +1,37 @@
+BA Case Study
+
+Analytics is a very hands-on subject. One needs to demonstrate various concepts learned in Business Analytics(i.e. from data collection and preprocessing to design, implementation and more importantly analysis).
+
+This is an individual work Students can select challenging data sets (preferably from Kaggle/ any other
+contest data set, so as to suit the objectives of the study). One reviews will be held, timed along with the
+end semester exam.
+
+1. Evaluation Part 1 (5 Marks)
+	a) Data preprocessing; Handle Missing values: Dummy variables= correlation analysis: Data Scaling Transformation dimensionality reduction (at least 2 methods); strategies to avoid over fitting;
+	b) Data Visualization and EDA(Plotly, Bokeh and Tableau to be employed to elicit intelligence with both static and dynamic features).given in Assignment Visualization
+	c) Model 1 - Classification and Regression (two models); Confusion Matrix, Accuracy, F-Measure, 10 fold cross validation, Student T-Test and RoC Tests
+
+2. Evaluation Part 2 (5 Marks)
+	a) Model 2 - Clustering (Any two algorithms to be implemented and evaluated)
+	b) Model 3 - Association Rule Mining
+
+3. Evaluation Part 3 (5 Marks)
+	a) Model 4 - Time series analysis (example: stock market prediction] Demand forecasting)
+
+Students shall submit their study in Jupyter Notebook (To be uploaded in one-drive 2 days prior to Final Review). The work should have explanatory notes embedded.
+
+Team - The above is what we have for BA Case study.
+All CRs want to propose and request the following from Anjali and BA mam:
+
+1) We are fine with selecting one model for each evaluation parts rather than two methods/model
+2) Everyone is flexible enough to choose any domain for a dataset rather than limiting all models to a single domain.
+
+The goal of the case study, we believe, should be to comprehend the notion of the model and its practical application rather than to limit the coding element to a certain domain.
+Students should be given the choice of presenting their Time Series analysis in MS-Excel, Python, or Tableau?
+
+
+Is everyone ok with the proposal?
+Yes
+No
+If any suggestions, please provide to me by end of today.
+
