@@ -1,0 +1,4 @@
+,MNB Accuracy,MNB Accuracy,MNB Accuracy,SVC Accuracy,SVC Accuracy,SVC Accuracy,KNN Accuracy,KNN Accuracy,KNN Accuracy,RFC Accuracy,RFC Accuracy,RFC Accuracy,XGB Accuracy,XGB Accuracy,XGB Accuracy
+,Train,Test,Validate,Train,Test,Validate,Train,Test,Validate,Train,Test,Validate,Train,Test,Validate
+Basic Vectorisation,0.98%,0.95%,0.80%,0.99%,0.96%,0.66%,0.62%,0.40%,0.49%,1.00%,0.96%,0.52%,0.96%,0.95%,0.71%
+Word Embedding,0.21%,0.21%,0.38%,0.33%,0.24%,0.37%,0.50%,0.27%,0.27%,1.00%,0.67%,0.27%,0.82%,0.75%,0.27%

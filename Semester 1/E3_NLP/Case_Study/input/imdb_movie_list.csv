@@ -1,0 +1,65 @@
+﻿Universe,Movie_Name,IMDB_Movie_Id,Movie_Name_Key
+Star Wars,A New Hope,76759,star_wars_a_new_hope
+Star Wars,The Empire Strikes Back,80684,star_wars_the_empire_strikes_back
+Star Wars,Return of the Jedi,86190,star_wars_episode_vi_return_of_the_jedi
+Star Wars,The Phantom Menace,120915,star_wars_episode_i_the_phantom_menace
+Star Wars,Attack of the Clones,121765,star_wars_episode_ii_attack_of_the_clones
+Star Wars,Revenge of the Sith,121766,star_wars_episode_iii_revenge_of_the_sith
+Star Wars,The Force Awakens,2488496,star_wars_episode_vii_the_force_awakens
+Star Wars,The Last Jedi,2527336,star_wars_the_last_jedi
+Star Wars,The Rise of Skywalker,2527338,star_wars_the_rise_of_skywalker
+Star Wars,Star Wars: The Clone Wars,458290,clone_wars
+Star Wars,Rogue One: A Star Wars Story,3748528,rogue_one_a_star_wars_story
+Star Wars,Solo: A Star Wars Story,3778644,solo_a_star_wars_story
+DC Extended Universe,Man of Steel,770828,superman_man_of_steel
+DC Extended Universe,Batman v Superman: Dawn of Justice,2975590,batman_v_superman_dawn_of_justice
+DC Extended Universe,Suicide Squad 2016,1386697,suicide_squad_2016
+DC Extended Universe,Wonder Woman 1984,7126948,wonder_woman_1984
+DC Extended Universe,Wonder Woman 2017,451279,wonder_woman_2017
+DC Extended Universe,Justice League,974015,justice_league_2017
+DC Extended Universe,Zack Snyder's Justice League,12361974,zack_snyders_justice_league
+DC Extended Universe,Aquaman,1477834,aquaman_2018
+DC Extended Universe,Shazam!,448115,shazam
+DC Extended Universe,Birds of Prey,7713068,birds_of_prey_2020
+DC Extended Universe,The Suicide Squad 2021,6334354,the_suicide_squad
+MonsterVerse,Godzilla,831387,godzilla_2014
+MonsterVerse,Kong: Skull Island,3731562,kong_skull_island
+MonsterVerse,Godzilla: King of the Monsters,3741700,godzilla_king_of_the_monsters_2019
+MonsterVerse,Godzilla vs. Kong,5034838,godzilla_vs_kong
+Marvel Cinematic Universe,Iron Man,371746,iron_man
+Marvel Cinematic Universe,The Incredible Hulk,800080,the_incredible_hulk
+Marvel Cinematic Universe,Iron Man 2,1228705,iron_man_2
+Marvel Cinematic Universe,Thor,800369,thor
+Marvel Cinematic Universe,Captain America: The First Avenger,458339,captain_america_the_first_avenger
+Marvel Cinematic Universe,Marvel's The Avengers,848228,marvels_the_avengers
+Marvel Cinematic Universe,Iron Man 3,1300854,iron_man_3
+Marvel Cinematic Universe,Thor: The Dark World,1981115,thor_the_dark_world
+Marvel Cinematic Universe,Captain America: The Winter Soldier,1843866,captain_america_the_winter_soldier_2014
+Marvel Cinematic Universe,Guardians of the Galaxy,2015381,guardians_of_the_galaxy
+Marvel Cinematic Universe,Avengers: Age of Ultron,2395427,avengers_age_of_ultron
+Marvel Cinematic Universe,Ant-Man,478970,antman
+Marvel Cinematic Universe,Captain America: Civil War,3498820,captain_america_civil_war
+Marvel Cinematic Universe,Doctor Strange,1211837,doctor_strange_2016
+Marvel Cinematic Universe,Guardians of the Galaxy Vol. 2,3896198,guardians_of_the_galaxy_vol_2
+Marvel Cinematic Universe,Spider-Man: Homecoming,2250912,spider_man_homecoming
+Marvel Cinematic Universe,Thor: Ragnarok,3501632,thor_ragnarok_2017
+Marvel Cinematic Universe,Black Panther,1825683,black_panther_2018
+Marvel Cinematic Universe,Avengers: Infinity War,4154756,avengers_infinity_war
+Marvel Cinematic Universe,Ant-Man and the Wasp,5095030,ant_man_and_the_wasp
+Marvel Cinematic Universe,Captain Marvel,4154664,captain_marvel
+Marvel Cinematic Universe,Avengers: Endgame,4154796,avengers_endgame
+Marvel Cinematic Universe,Spider-Man: Far From Home,6320628,spider_man_far_from_home
+Marvel Cinematic Universe,Black Widow,3480822,black_widow
+Marvel Cinematic Universe,Shang-Chi and the Legend of the Ten Rings,9376612,shang_chi_and_the_legend_of_the_ten_rings
+Marvel Cinematic Universe,Eternals,9032400,eternals
+Marvel Cinematic Universe,Spider-Man: No Way Home,10872600,spider_man_no_way_home
+Wizarding World,Harry Potter and the Sorcerer's Stone,241527,harry_potter_and_the_sorcerers_stone
+Wizarding World,Harry Potter and the Chamber of Secrets,295297,harry_potter_and_the_chamber_of_secrets
+Wizarding World,Harry Potter and the Prisoner of Azkaban,304141,harry_potter_and_the_prisoner_of_azkaban
+Wizarding World,Harry Potter and the Goblet of Fire,330373,harry_potter_and_the_goblet_of_fire
+Wizarding World,Harry Potter and the Order of the Phoenix,373889,harry_potter_and_the_order_of_the_phoenix
+Wizarding World,Harry Potter and the Half-Blood Prince,417741,harry_potter_and_the_half_blood_prince
+Wizarding World,Harry Potter and the Deathly Hallows – Part 1,926084,harry_potter_and_the_deathly_hallows_part_1
+Wizarding World,Harry Potter and the Deathly Hallows – Part 2,1201607,harry_potter_and_the_deathly_hallows_part_2
+Wizarding World,Fantastic Beasts and Where to Find Them,3183660,fantastic_beasts_and_where_to_find_them
+Wizarding World,Fantastic Beasts: The Crimes of Grindelwald,4123430,fantastic_beasts_the_crimes_of_grindelwald

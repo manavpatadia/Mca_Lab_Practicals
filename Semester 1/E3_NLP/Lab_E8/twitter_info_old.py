@@ -1,0 +1,6 @@
+Twitter_App_Name = "Learning_NLP_2107423"
+API_Key = "z3y21xuK5GTae4t3zwIZtfDBM"
+API_Key_Secret = "dJazqWxggSAmCPhnH8jRVx6LxwgPvfioC2gL4PXWzj9eFbCnC7"
+Bearer_Token = "AAAAAAAAAAAAAAAAAAAAAGoxZgEAAAAAYbh9DoIZOp7ULX%2Bqx7dFdmDt9Cc%3DK1YZDHQDOmSLQPNFO814mnqLPUxzxULmU8ncTg8hY8nZVSNjsp"
+Access_Token = "1275826603105193984-91g3gTKDAxhIoGoV0OkksBv9jVOqUg"
+Access_Token_Secret = "Hy7KRjO0mb5CaQlXWmTRjDjZPwUwVONsBZc4Zva2i6JEN"
