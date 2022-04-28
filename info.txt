@@ -1,0 +1,25 @@
+Outlook ID:
+manavnp_mca2107423@ahead.students.amrita.edu
+Roll Number: AA.SC.P2MCA2107423
+
+LMS
+https://aheadonline.amrita.edu/
+
+NIMBUS
+
+
+Essentials of Cybersecurity course:
+MCA AI & MCA Cyber: Every SUN 9:00AM - 10:00AM
+
+win+prt sc to automatically capture screenshot
+win+q to capture a selection of the screen
+open cmd:
+cd "C:\Users\Manav Patadia\Pictures\Screenshots\MCA\semester_1\Maths\week1\1.4 Logical connectives and operators"
+dir /b /s /od > "C:\Users\Manav Patadia\Pictures\Screenshots\MCA\semester_1\Maths\week1\sc_1_4_file_names.txt"
+g:
+cd G:\Capture2Text_v4.6.2_64bit\Capture2Text\
+Capture2Text_CLI.exe -f "C:\Users\Manav Patadia\Pictures\Screenshots\MCA\semester_1\Maths\week1\sc_1_4_file_names.txt" -o "C:\Users\Manav Patadia\Pictures\Screenshots\MCA\semester_1\Maths\week1\sc_1_4_text.txt"
+
+
+texthero.org ==== NLP
+
