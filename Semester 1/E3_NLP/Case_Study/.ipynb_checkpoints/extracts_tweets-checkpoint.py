@@ -24,13 +24,13 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 API = tweepy.API(auth, wait_on_rate_limit=True)
 
-query_list = ["SpaceX", "tesla", "starlink", "neuralink", "hyperloop"]
+query_list = ["AI", "Robotic Process Automation", "Cloud Computing", "Digital Marketing", "Computer Vision"]
 tweets_response_list = []
 for q in query_list:
     for page in tweepy.Cursor(API.search_tweets, q=q + " lang:en -filter:retweets", count=100, tweet_mode='extended').pages(50):
         for response in page:
             tweets_response_list.append([response.id_str, response.full_text, q])
     df = pd.DataFrame(tweets_response_list, columns = ['id_str', 'full_text', 'label'])
-    df.to_csv("C:\spark\MCA\Semester1\E3_NLP\tweets_raj.csv", index=False)
+    df.to_csv("C:\spark\MCA\Semester1\E3_NLP\tweets.csv", index=False)
     
-df.to_csv("C:\spark\MCA\Semester1\E3_NLP\tweets_raj.csv", index=False)
+df.to_csv("C:\spark\MCA\Semester1\E3_NLP\tweets.csv", index=False)
