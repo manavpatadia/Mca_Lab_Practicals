@@ -1,5 +1,5 @@
 ,MNB Accuracy,MNB Accuracy,MNB Accuracy,SVC Accuracy,SVC Accuracy,SVC Accuracy,KNN Accuracy,KNN Accuracy,KNN Accuracy,RFC Accuracy,RFC Accuracy,RFC Accuracy,XGB Accuracy,XGB Accuracy,XGB Accuracy
 ,Train,Validate,Test,Train,Validate,Test,Train,Validate,Test,Train,Validate,Test,Train,Validate,Test
-Basic Vectorisation,96.38%,91.51%,72.83%,99.37%,91.55%,65.66%,61.23%,42.13%,51.32%,99.73%,91.63%,43.02%,93.15%,90.99%,72.83%
-Word Embedding Glove,71.71%,72.44%,72.08%,90.77%,87.44%,87.92%,86.88%,81.56%,75.09%,99.37%,84.48%,85.66%,99.12%,85.66%,85.28%
-Word Embedding Word2Vec,59.60%,60.16%,66.04%,88.64%,81.79%,83.40%,79.84%,71.88%,67.92%,98.32%,76.05%,73.96%,97.37%,77.79%,77.74%
+Basic Vectorisation,96.38%,91.51%,72.83%,99.37%,91.55%,65.66%,61.23%,42.13%,51.32%,99.73%,91.77%,44.15%,93.15%,90.99%,72.83%
+Word Embedding Glove,71.71%,72.44%,72.08%,90.77%,87.44%,87.92%,86.88%,81.56%,75.09%,99.37%,84.37%,84.53%,99.12%,85.66%,85.28%
+Word Embedding Word2Vec,59.60%,60.16%,66.04%,88.64%,81.79%,83.40%,79.84%,71.88%,67.92%,98.32%,75.61%,78.11%,97.37%,77.79%,77.74%
