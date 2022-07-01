@@ -23,3 +23,11 @@ Capture2Text_CLI.exe -f "C:\Users\Manav Patadia\Pictures\Screenshots\MCA\semeste
 
 texthero.org ==== NLP
 
+Google Cloud
+student-02-edfed6fd6df6@qwiklabs.net
+4uUzESyiybwc
+qwiklabs-gcp-00-4148be6de7c4
+
+Your profile is public and accessible at
+https://www.cloudskillsboost.google/public_profiles/63d8b241-78cd-45d4-b372-1f808cfca157
+
